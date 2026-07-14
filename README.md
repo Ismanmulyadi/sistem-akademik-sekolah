@@ -26,6 +26,3 @@ dan absensi siswa yang digunakan oleh guru mata pelajaran dan staf tata usaha.
 > ⚠️ Proyek ini masih dalam tahap awal pengembangan.
 > Instruksi lengkap menjalankan aplikasi akan ditambahkan
 > setelah backend dan frontend mulai dibangun.
-
-1. Clone repository ini:
-   git clone https://github.com/Ismanmulyadi/sistem-akademik-sekolah.git
